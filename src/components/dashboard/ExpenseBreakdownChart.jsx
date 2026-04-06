@@ -67,7 +67,7 @@ export default function ExpenseBreakdownChart() {
           </ResponsiveContainer>
         </div>
 
-        {/* Legend — horizontal bar rows */}
+        {/* Legend - horizontal bar rows */}
         <div className="eb-legend">
           {categoryBreakdown.slice(0, 6).map(({ name, value }) => {
             const pct = ((value / totalExpenses) * 100).toFixed(0);

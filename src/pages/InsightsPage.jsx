@@ -608,7 +608,7 @@ export default function InsightsPage() {
                 (insights.monthlyChange > 10
                   ? " Spending spiked significantly vs last month."
                   : insights.monthlyChange < -10
-                  ? " Great — spending is down compared to last month."
+                  ? " Great - spending is down compared to last month."
                   : " Spending is relatively stable month-over-month.")
               }
             />
