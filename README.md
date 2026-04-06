@@ -1,4 +1,4 @@
-# FinDash — Modern Finance Dashboard
+# FinDash - Modern Finance Dashboard
 
 A comprehensive, fully responsive, and highly interactive finance dashboard web application built with modern React.
 
